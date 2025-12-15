@@ -1,0 +1,1 @@
+docker run --name ventawarex-api -p 8080:8080 -d ventawarex-api:latest
